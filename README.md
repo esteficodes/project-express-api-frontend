@@ -1,19 +1,23 @@
-# Technigo React Starter App
+# My first API Backend/Frontend
+ This is the frontend I built for the project express API repository.
 
-This app has been generated using `create-react-app`, then cleaned up a little so we have a project with just the elements we need to get started.
 
-Add components in the `src` folder and use them in `src/app.js` to get started.
+## The problem - How I solved it
 
-## Usage
+This week it was all about 
 
-1. On GitHub, click the 'use this template' button to create a new repo on your account
-1. Clone the new repo to your computer
-1. Install required dependencies with npm: `npm install`
-1. Start the project: `npm start`
+- How to install and setup an Express server.
+- How to create my first routes.
+- How to deploy Node projects.
+- Practicing data manipulation in JavaScript - selecting, filtering, and limiting arrays
 
-Alternatively, if you don't want a new git repo on your account;
 
-1. Download & extract the [latest release](https://github.com/Technigo/react-starter/releases/latest) from GitHub
-1. Open the directory in the terminal: `cd /path/to/react-starter`
-1. Install required dependencies with npm: `npm install`
-1. Start the project: `npm start`
+## See it live
+
+Here you can find:
+
+<a href="https://github.com/esteficodes/project-express-api">My backend repository</a>
+
+<a href="https://books-by-estefi.herokuapp.com/books">My deployed API On Herokku</a>
+
+<a href="https://myfirstbackendfrontendapi.netlify.app">My deployed frontend</a>
